@@ -1,8 +1,17 @@
-# React + Vite
+# Sats Connect Example
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an example of how to use the Sats Connect package in your React app.
 
-Currently, two official plugins are available:
+## Installation and execution
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To install the dependencies, run the following command:
+```bash
+npm i
+```
+
+To run the app, run the following command:
+```bash
+npm start
+```
+
+You should now be able to access the app at http://localhost:3000.
